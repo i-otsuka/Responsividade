@@ -1,17 +1,4 @@
-# Responsividade
- Estudos e testes de responsividade
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Responsividade</title>
-    <link rel="shortcut icon" href="imagens/favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="estilos.css">
-    <script src="https://kit.fontawesome.com/633aa90645.js" crossorigin="anonymous"></script>
-</head>
-<body>
+
     <main>
         <h1>Estudos e testes de responsividade</h1>
         <ul>
@@ -27,8 +14,3 @@
             </li>
         </ul>
     </main>
-        
-
-
-</body>
-</html>

@@ -1,16 +1,33 @@
-
+# Responsividade
+ Estudos e testes de responsividade
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsividade</title>
+    <link rel="shortcut icon" href="imagens/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
     <main>
         <h1>Estudos e testes de responsividade</h1>
         <ul>
             <li>
-                <a href="media-query-css/001-media-query-max-width/index.html" target="_blank"><i class="far fa-file-code"></i> 001 - Do maior para o menor - Media Query com Max-Width</a></li>
+                <a href="media-query-css/001-media-query-max-width/index.html" target="_blank"> 001 - Do maior para o menor - Media Query com Max-Width</a></li>
             <li>                
-                <a href="media-query-css/002-media-query-min-width/index.html" target="_blank"><i class="far fa-file-code"></i> 002 - Do maior para o menor - Media Query com Min-Width</a></li>
+                <a href="media-query-css/002-media-query-min-width/index.html" target="_blank"> 002 - Do maior para o menor - Media Query com Min-Width</a></li>
             <li>                
-                <a href="media-query-css/003-mobile-first/index.html" target="_blank"><i class="far fa-file-code"></i> 003 - Cartão de Visitas Responsivo</a>
+                <a href="media-query-css/003-mobile-first/index.html" target="_blank"> 003 - Cartão de Visitas Responsivo</a>
                 <li>                   
-                    <a class="secundario" href="media-query-css/003-mobile-first/teste001.html" target="_blank"><i class="far fa-file-code"></i> Testando alinhamento vertical</a>
+                    <a class="secundario" href="media-query-css/003-mobile-first/teste001.html" target="_blank">Testando alinhamento vertical</a>
                 </li>
             </li>
         </ul>
     </main>
+        
+
+
+</body>
+</html>
